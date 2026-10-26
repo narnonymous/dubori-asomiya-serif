@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
+      <map input="400" output="400" />
+      <map input="700" output="700" />
+    </axis>
+  </axes>
+  <sources>
+    <source filename="DuboriAsomiyaSerif-Regular.ufo" familyname="Dubori Asomiya Serif" stylename="Regular">
+      <location>
+        <dimension name="Weight" xvalue="400" />
+      </location>
+    </source>
+    <source filename="DuboriAsomiyaSerif-Bold.ufo" familyname="Dubori Asomiya Serif" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="700" />
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Dubori Asomiya Serif" stylename="Regular" filename="DuboriAsomiyaSerif-Regular.ttf">
+      <location>
+        <dimension name="Weight" xvalue="400" />
+      </location>
+    </instance>
+    <instance familyname="Dubori Asomiya Serif" stylename="Bold" filename="DuboriAsomiyaSerif-Bold.ttf">
+      <location>
+        <dimension name="Weight" xvalue="700" />
+      </location>
+    </instance>
+  </instances>
+</designspace>

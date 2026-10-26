@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1CF5.steck" format="2">
+  <anchor x="-299" y="-200" name="_Anchor9"/>
+  <anchor x="-299" y="-200" name="_Anchor41"/>
+  <outline>
+    <component base="uni1CF5.stack"/>
+  </outline>
+</glyph>

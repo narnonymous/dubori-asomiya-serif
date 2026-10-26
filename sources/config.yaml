@@ -1,0 +1,10 @@
+sources:
+  - DuboriAsomiyaSerif.designspace
+axisOrder:
+  - wght
+familyName: "Dubori Asomiya Serif"
+includeFeatures:
+  - kern
+  - liga
+  - locl
+outputDir: "../fonts"

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni09F009BC" format="2">
+  <advance width="546"/>
+  <anchor x="446" y="583" name="Anchor3"/>
+  <anchor x="448" y="571" name="Anchor7"/>
+  <anchor x="272" y="0" name="Anchor9"/>
+  <anchor x="460" y="21" name="Anchor11"/>
+  <anchor x="466" y="87" name="Anchor13"/>
+  <anchor x="466" y="11" name="Anchor15"/>
+  <anchor x="446" y="14" name="Anchor17"/>
+  <anchor x="221" y="42" name="Anchor19"/>
+  <outline>
+    <component base="uni09F0"/>
+    <component base="uni09BC" xOffset="221" yOffset="174"/>
+  </outline>
+</glyph>
