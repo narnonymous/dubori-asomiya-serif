@@ -1,0 +1,150 @@
+/* ==========================================================================
+   Dubori Asomiya Serif (দুবৰি অসমীয়া চেৰিফ) - Official Web Typography Bundle
+   Designed by Dubori & Naruttam Boruah (https://dubori.in)
+   Open-Access SIL Open Font License 1.1
+   ========================================================================== */
+
+/* 1. Variable Font (@supports variable font rendering) */
+@supports (font-variation-settings: normal) {
+  @font-face {
+    font-family: 'Dubori Asomiya Serif';
+    src: url('./woff2/DuboriAsomiyaSerif-Variable.woff2') format('woff2-variations'),
+         url('./ttf/DuboriAsomiyaSerif-Variable.ttf') format('truetype');
+    font-weight: 100 900;
+    font-stretch: 62.5% 100%;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+0980-09FF, U+0020-007E, U+200C-200D, U+25CC;
+  }
+}
+
+/* 2. Static Font Fallbacks & Dedicated Instances */
+@font-face {
+  font-family: 'Dubori Asomiya Serif';
+  src: url('./woff2/DuboriAsomiyaSerif-Regular.woff2') format('woff2'),
+       url('./ttf/DuboriAsomiyaSerif-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  unicode-range: U+0980-09FF, U+0020-007E, U+200C-200D, U+25CC;
+}
+
+@font-face {
+  font-family: 'Dubori Asomiya Serif';
+  src: url('./woff2/DuboriAsomiyaSerif-Medium.woff2') format('woff2'),
+       url('./ttf/DuboriAsomiyaSerif-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  unicode-range: U+0980-09FF, U+0020-007E, U+200C-200D, U+25CC;
+}
+
+@font-face {
+  font-family: 'Dubori Asomiya Serif';
+  src: url('./woff2/DuboriAsomiyaSerif-SemiBold.woff2') format('woff2'),
+       url('./ttf/DuboriAsomiyaSerif-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  unicode-range: U+0980-09FF, U+0020-007E, U+200C-200D, U+25CC;
+}
+
+@font-face {
+  font-family: 'Dubori Asomiya Serif';
+  src: url('./woff2/DuboriAsomiyaSerif-Bold.woff2') format('woff2'),
+       url('./ttf/DuboriAsomiyaSerif-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  unicode-range: U+0980-09FF, U+0020-007E, U+200C-200D, U+25CC;
+}
+
+@font-face {
+  font-family: 'Dubori Asomiya Serif';
+  src: url('./woff2/DuboriAsomiyaSerif-Black.woff2') format('woff2'),
+       url('./ttf/DuboriAsomiyaSerif-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+  font-display: swap;
+  unicode-range: U+0980-09FF, U+0020-007E, U+200C-200D, U+25CC;
+}
+
+@font-face {
+  font-family: 'Dubori Asomiya Serif';
+  src: url('./woff2/DuboriAsomiyaSerif-Condensed.woff2') format('woff2'),
+       url('./ttf/DuboriAsomiyaSerif-Condensed.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: condensed;
+  font-display: swap;
+  unicode-range: U+0980-09FF, U+0020-007E, U+200C-200D, U+25CC;
+}
+
+@font-face {
+  font-family: 'Dubori Asomiya Serif';
+  src: url('./woff2/DuboriAsomiyaSerif-BoldCondensed.woff2') format('woff2'),
+       url('./ttf/DuboriAsomiyaSerif-BoldCondensed.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: condensed;
+  font-display: swap;
+  unicode-range: U+0980-09FF, U+0020-007E, U+200C-200D, U+25CC;
+}
+
+@font-face {
+  font-family: 'Dubori Asomiya Serif';
+  src: url('./woff2/DuboriAsomiyaSerif-BlackCondensed.woff2') format('woff2'),
+       url('./ttf/DuboriAsomiyaSerif-BlackCondensed.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: condensed;
+  font-display: swap;
+  unicode-range: U+0980-09FF, U+0020-007E, U+200C-200D, U+25CC;
+}
+
+@font-face {
+  font-family: 'Dubori Asomiya Serif';
+  src: url('./woff2/DuboriAsomiyaSerif-Italic.woff2') format('woff2'),
+       url('./ttf/DuboriAsomiyaSerif-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+  unicode-range: U+0980-09FF, U+0020-007E, U+200C-200D, U+25CC;
+}
+
+@font-face {
+  font-family: 'Dubori Asomiya Serif';
+  src: url('./woff2/DuboriAsomiyaSerif-BoldItalic.woff2') format('woff2'),
+       url('./ttf/DuboriAsomiyaSerif-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-stretch: normal;
+  font-display: swap;
+  unicode-range: U+0980-09FF, U+0020-007E, U+200C-200D, U+25CC;
+}
+
+/* 3. Utility Classes for Typographic Hierarchy */
+.font-dubori-serif {
+  font-family: 'Dubori Asomiya Serif', 'Noto Serif Bengali', serif;
+  font-feature-settings: "kern" 1, "liga" 1, "locl" 1;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-dubori-condensed {
+  font-family: 'Dubori Asomiya Serif', serif;
+  font-stretch: condensed;
+  font-variation-settings: "wdth" 75;
+}
+
+.font-dubori-black {
+  font-family: 'Dubori Asomiya Serif', serif;
+  font-weight: 900;
+  font-variation-settings: "wght" 900;
+}
