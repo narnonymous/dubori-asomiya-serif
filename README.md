@@ -35,7 +35,7 @@ Tailored specifically for high-resolution desktop publishing, classical Vaishnav
 | **Black Condensed** | 900 | 75% | `DuboriAsomiyaSerif-BlackCondensed` | Ultra-compact heavy display |
 | **Italic** | 400 | 100% | `DuboriAsomiyaSerif-Italic` | 11.5° cursive quotations, poetry |
 | **Bold Italic** | 700 | 100% | `DuboriAsomiyaSerif-BoldItalic` | Slanted headings, pull quotes |
-| **Variable Font** | 100–900 | 75–100% | `DuboriAsomiyaSerif-Variable` | Fluid responsive web & animation |
+| **Variable Font** | 100-900 | 75-100% | `DuboriAsomiyaSerif-Variable` | Fluid responsive web & animation |
 
 ---
 
